@@ -17,6 +17,16 @@ The webapp has been built using streamlit and can be run using the command
 ```
 streamlit run myapp.py
 ```
+**Screenshots from the webapp**
+
+Shot 1 - Startup interface
+
 ![App1](https://github.com/muhammedsalihk/Scene-Text-Detection-and-Recognition-App/blob/master/Images/App%201.png)
+
+Shot 2 - Image uploaded
+
 ![App2](https://github.com/muhammedsalihk/Scene-Text-Detection-and-Recognition-App/blob/master/Images/App%202.png)
+
+Shot 3 - Results display
+
 ![App3](https://github.com/muhammedsalihk/Scene-Text-Detection-and-Recognition-App/blob/master/Images/App%203.png)
