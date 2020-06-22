@@ -12,6 +12,8 @@ To improve accuracy and to avoid errors with recognition, the system only recogn
 
 ![Flow](https://github.com/muhammedsalihk/Scene-Text-Detection-and-Recognition-App/blob/master/Images/DNN.png)
 
+Text detection NN model for OpenCV can be downloaded [here](https://github.com/ZER-0-NE/EAST-Detector-for-text-detection-using-OpenCV/blob/master/frozen_east_text_detection.pb). 
+
 ## Implementation
 The webapp has been built using streamlit and can be run using the command 
 ```
